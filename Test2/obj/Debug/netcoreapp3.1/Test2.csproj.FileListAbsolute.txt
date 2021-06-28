@@ -1,0 +1,13 @@
+C:\Users\Paul\source\repos\Vanhack\Test2\bin\Debug\netcoreapp3.1\Test2.exe
+C:\Users\Paul\source\repos\Vanhack\Test2\bin\Debug\netcoreapp3.1\Test2.deps.json
+C:\Users\Paul\source\repos\Vanhack\Test2\bin\Debug\netcoreapp3.1\Test2.runtimeconfig.json
+C:\Users\Paul\source\repos\Vanhack\Test2\bin\Debug\netcoreapp3.1\Test2.runtimeconfig.dev.json
+C:\Users\Paul\source\repos\Vanhack\Test2\bin\Debug\netcoreapp3.1\Test2.dll
+C:\Users\Paul\source\repos\Vanhack\Test2\bin\Debug\netcoreapp3.1\Test2.pdb
+C:\Users\Paul\source\repos\Vanhack\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\Vanhack\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfo.cs
+C:\Users\Paul\source\repos\Vanhack\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Vanhack\Test2\obj\Debug\netcoreapp3.1\Test2.dll
+C:\Users\Paul\source\repos\Vanhack\Test2\obj\Debug\netcoreapp3.1\Test2.pdb
+C:\Users\Paul\source\repos\Vanhack\Test2\obj\Debug\netcoreapp3.1\Test2.genruntimeconfig.cache
+C:\Users\Paul\source\repos\Vanhack\Test2\obj\Debug\netcoreapp3.1\Test2.csprojAssemblyReference.cache

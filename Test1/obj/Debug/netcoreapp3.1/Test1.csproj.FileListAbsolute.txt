@@ -1,0 +1,13 @@
+C:\Users\Paul\source\repos\Vanhack\Test1\bin\Debug\netcoreapp3.1\Test1.exe
+C:\Users\Paul\source\repos\Vanhack\Test1\bin\Debug\netcoreapp3.1\Test1.deps.json
+C:\Users\Paul\source\repos\Vanhack\Test1\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.json
+C:\Users\Paul\source\repos\Vanhack\Test1\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.dev.json
+C:\Users\Paul\source\repos\Vanhack\Test1\bin\Debug\netcoreapp3.1\Test1.dll
+C:\Users\Paul\source\repos\Vanhack\Test1\bin\Debug\netcoreapp3.1\Test1.pdb
+C:\Users\Paul\source\repos\Vanhack\Test1\obj\Debug\netcoreapp3.1\Test1.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\Vanhack\Test1\obj\Debug\netcoreapp3.1\Test1.AssemblyInfo.cs
+C:\Users\Paul\source\repos\Vanhack\Test1\obj\Debug\netcoreapp3.1\Test1.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Vanhack\Test1\obj\Debug\netcoreapp3.1\Test1.dll
+C:\Users\Paul\source\repos\Vanhack\Test1\obj\Debug\netcoreapp3.1\Test1.pdb
+C:\Users\Paul\source\repos\Vanhack\Test1\obj\Debug\netcoreapp3.1\Test1.genruntimeconfig.cache
+C:\Users\Paul\source\repos\Vanhack\Test1\obj\Debug\netcoreapp3.1\Test1.csprojAssemblyReference.cache
